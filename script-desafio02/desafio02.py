@@ -3,4 +3,4 @@ dia = input ('Dia: ')
 mes = input ('Mês: ')
 ano = input ('Ano: ' )
 
-print ('Vôce nasceu no dia ', dia,' de/do ' , mes, ' de ' , ano, ' ,tá coreto?')
+print ('Vôce nasceu no dia ', dia,' de(o) ' , mes, ' de ' , ano, ' ,tá coreto?')
